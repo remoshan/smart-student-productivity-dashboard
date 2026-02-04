@@ -6,11 +6,14 @@
 
 ## Visuals
 
-_Hero / screenshot placeholder (replace with a real image or GIF):_
-
-![Smart Student Productivity Dashboard – Hero Placeholder](./docs/hero-placeholder.png)
-
----
+![Dashboard - Dark Theme](https://github.com/user-attachments/assets/5090397f-58d2-4b5e-8d3b-e01d6d949cfb)
+![Dashboard - Light Theme](https://github.com/user-attachments/assets/564cd6b7-8d46-4835-9417-96884cd9c9ea)
+![Study Planner - Dark Theme](https://github.com/user-attachments/assets/421d1f44-9ce3-4a1f-a7c0-4ac48a606cb6)
+![Study Planner - Light Theme](https://github.com/user-attachments/assets/352bdab0-140f-4a15-9011-e646b991bc14)
+![Pomodoro Timer - Dark Theme](https://github.com/user-attachments/assets/f9126365-6fe4-479d-a1f7-39b90a6cbc2f)
+![Pomodoro Timer - Light Theme](https://github.com/user-attachments/assets/de4fcde0-43b8-4df0-b607-2fe24db0e55c)
+![Analytics - Dark Theme](https://github.com/user-attachments/assets/24870524-f761-4292-a0da-e946018131d5)
+![Analytics - Light Theme](https://github.com/user-attachments/assets/071f3d87-1e36-4b55-a95a-9c2a14a8ee52)
 
 ## Features
 
