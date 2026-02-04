@@ -38,7 +38,7 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/smart-student-productivity-dashboard.git
+git clone https://github.com/remoshan/smart-student-productivity-dashboard.git
 cd smart-student-productivity-dashboard
 
 # Install dependencies
